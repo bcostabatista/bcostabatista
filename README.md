@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋, happy to have you here!
+
+As a DevOps and Software Engineer with 14+ years of experience, I am passionate about driving innovation in infrastructure and observability. Throughout my career, I have empowered companies to achieve their goals through my expertise in AWS, Kubernetes, cost-saving strategies like optimizing cloud resources, Python, real-time communication technologies, and more.
+
+My primary focus is on building robust infrastructures and implementing effective DevOps practices that enhance observability and streamline development processes. I thrive on challenges and actively seek opportunities to collaborate with like-minded professionals in the dynamic tech landscape.
+
+Currently pursuing a master's degree in Applied Computer Science, I enjoy tackling intricate puzzles and problems, further enhancing my analytical skills.
 
 <!--
 **bcostabatista/bcostabatista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
