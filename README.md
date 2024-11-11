@@ -6,6 +6,8 @@ My primary focus is on building robust infrastructures and implementing effectiv
 
 Currently pursuing a master's degree in Applied Computer Science, I enjoy tackling intricate puzzles and problems, further enhancing my analytical skills.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-batista-505b1b25/)
+
 <!--
 **bcostabatista/bcostabatista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
